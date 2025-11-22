@@ -99,7 +99,14 @@ Neon is used in place of a data lake.
 ### **2. Lightweight Real-time Model**
 - Generates instant adaptive recommendations  
 - Uses fresh events queried directly from Neon  
-- Powers the recommendation API endpoint  
+- Powers the recommendation API endpoint
+- <img width="935" height="365" alt="image" src="https://github.com/user-attachments/assets/74805a43-4642-4db5-b1c4-d068cdde13af" />
+<img width="935" height="365" alt="image" src="https://github.com/user-attachments/assets/b59a48c1-6ffa-4638-932f-67178d49f84b" />
+<img width="940" height="440" alt="image" src="https://github.com/user-attachments/assets/5a7aa35e-4de6-4a53-875e-74569358933c" />
+<img width="1053" height="936" alt="image" src="https://github.com/user-attachments/assets/b23c881a-c22a-478d-a093-977a31a8bb92" />
+
+
+
 
 ---
 
